@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # GO TO THE PATH OF THE IMAGES
-mypath ="C:\\Users\\apetricenco\\Desktop\\QA Classes\\Python\\STUDY"
+mypath ="ADD YOUR PATH"
 
 # OPEN 2 IMAGES
 image1 = cv2.imread('lyglw.jpg')
